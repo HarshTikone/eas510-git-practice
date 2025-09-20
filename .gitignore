@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Build outputs
+*.egg-info/
+build/
+dist/
+
+# ML / DL files
+*.h5
+*.pth
+*.ckpt
+models/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
